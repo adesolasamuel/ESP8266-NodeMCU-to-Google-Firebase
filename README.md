@@ -1,6 +1,6 @@
 This is a detailed description of how to send data from NodeMCU or ESP8266 to Google Firebase
 
-How to send data to Microsoft Azure IoT central Using NodeMCU
+How to send data to Google Firebase Using NodeMCU
 
 Link to step by step Video: https://youtu.be/7VXbVHssiQU
 
